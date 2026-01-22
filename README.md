@@ -50,10 +50,6 @@ I am an **IT & Networking Specialist** with a deep focus on **Python** developme
 </div>
 <br clear="both"/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudo-py-dev&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
-</div>
-
 ---
 
 ### 📫 Connect with Me
