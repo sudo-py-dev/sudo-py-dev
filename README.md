@@ -3,8 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/sudo-py-dev">sudo-py-dev</a></h1>
-<h3 align="center">Python Developer | IT Specialist | Automation Specialist</h3>
-
+<h3 align="center">Python Developer
 <p align="center">
   <a href="https://github.com/sudo-py-dev">
     <img src="https://komarev.com/ghpvc/?username=sudo-py-dev&style=flat-square&color=blue" alt="Profile Views" />
@@ -24,12 +23,14 @@ I am an **IT & Networking Specialist** with a deep focus on **Python** developme
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Tools & Systems**
+
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
